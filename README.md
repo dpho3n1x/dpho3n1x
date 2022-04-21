@@ -1,6 +1,4 @@
 - 👋 Hi, I’m dPho3n1x (Sho)
-- 👀 I’m interested in IT oriented things!
+- 👀 I’m interested in IT oriented stuff
 
-<!---
-Check out my projects!
---->
+Feel free to try my flagship projects: Clenc and Image compressor ;)
